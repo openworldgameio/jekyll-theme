@@ -21,11 +21,11 @@ en: &DEFAULT_EN
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "cloud-native and open-source solutions"
+      - title: "Cloud-native and open-source solutions"
         desc: "Dedicated to delivering innovative and cost-effective solutions for modern-day enterprises."
         icon: fas fa-cloud-check #find more at https://fontawesome.com/icons
       - title: "Serverless, containerization and infrastructure automation"
-        desc: "open-source software running on public cloud infrastructure, leveraging serverless computing, containerization, and infrastructure automation"
+        desc: "Open-source software running on public cloud infrastructure, leveraging serverless computing, containerization, and infrastructure automation"
         icon: fas fa-duotone fa-server
       - title: "Easy Observability and Incident Management"
         desc: "Aggregating all metrics and logs available via a 'single pane of glass'. This approach empowers their customers with a unified view of the entire infrastructure, making it easier to detect, diagnose, and resolve issues instantly."
@@ -180,11 +180,11 @@ es: &DEFAULT_ES
     text: "Lorem ipsum"
     section: servicios
     list:
-      - title: "cloud-native and open-source solutions"
+      - title: "Cloud-native and open-source solutions"
         desc: "Dedicated to delivering innovative and cost-effective solutions for modern-day enterprises."
         icon: fas fa-cloud-check #find more at https://fontawesome.com/icons
       - title: "Serverless, containerization and infrastructure automation"
-        desc: "open-source software running on public cloud infrastructure, leveraging serverless computing, containerization, and infrastructure automation"
+        desc: "Open-source software running on public cloud infrastructure, leveraging serverless computing, containerization, and infrastructure automation"
         icon: fas fa-duotone fa-server
       - title: "Easy Observability and Incident Management"
         desc: "Aggregating all metrics and logs available via a 'single pane of glass'. This approach empowers their customers with a unified view of the entire infrastructure, making it easier to detect, diagnose, and resolve issues instantly."
