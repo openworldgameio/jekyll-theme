@@ -335,7 +335,7 @@ de: &DEFAULT_DE
     text: "Was wir anbieten."
     section: Leistungen
     list:
-      - title: "cloud-native and open-source solutions"
+      - title: "Cloud-native and open-source solutions"
         desc: "Dedicated to delivering innovative and cost-effective solutions for modern-day enterprises."
         icon: fas fa-cloud-check #find more at https://fontawesome.com/icons
       - title: "Serverless, containerization and infrastructure automation"
